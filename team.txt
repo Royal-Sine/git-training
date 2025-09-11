@@ -1,0 +1,2 @@
+Xin chào từ nhánh main
+Xin chào từ nhánh feature
